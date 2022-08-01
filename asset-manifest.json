@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/project-to-do-list-/static/css/main.71e4f5af.css",
+    "main.js": "/project-to-do-list-/static/js/main.13c34cbb.js",
+    "static/media/pexels-nugroho-wahyu-3097112.jpg": "/project-to-do-list-/static/media/pexels-nugroho-wahyu-3097112.d5ccac6834c6701bd9fe.jpg",
+    "index.html": "/project-to-do-list-/index.html",
+    "main.71e4f5af.css.map": "/project-to-do-list-/static/css/main.71e4f5af.css.map",
+    "main.13c34cbb.js.map": "/project-to-do-list-/static/js/main.13c34cbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71e4f5af.css",
+    "static/js/main.13c34cbb.js"
+  ]
+}
